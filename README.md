@@ -1,5 +1,5 @@
 # Word-Processor
-Final Project
+
 Create a program that processes book's and pulls out different metric types. The programme must be realised 
 as a class system in which the basic classes are in more detail described as follows.
 
